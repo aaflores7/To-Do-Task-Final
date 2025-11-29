@@ -125,3 +125,7 @@ php artisan test
 ## 📄 License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Video Demo
+
+Link: https://drive.google.com/file/d/1oVPeT2rFNk7gu0CmIju-TD8rn4THShhp/view?usp=sharing
