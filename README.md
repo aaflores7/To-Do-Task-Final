@@ -2,6 +2,13 @@
 
 A modern, commercial-grade To-Do application built with **Laravel**, **Vue 3**, and **Tailwind CSS**. This project demonstrates a full-stack implementation featuring authentication, state management, and a polished user interface.
 
+Login Page
+<img width="1409" height="916" alt="Screenshot 2025-11-29 192145" src="https://github.com/user-attachments/assets/c9ed20a0-937a-4e33-a119-c781a5b32108" />
+Register Page
+<img width="1255" height="860" alt="Screenshot 2025-11-29 191906" src="https://github.com/user-attachments/assets/6ecf9efc-31e5-4ad7-8519-6fc0f99a8718" />
+Home Page
+<img width="1290" height="887" alt="Screenshot 2025-11-29 192041" src="https://github.com/user-attachments/assets/9aa900da-1698-4c27-a401-69a0b131a37a" />
+
 ## 🚀 Features
 
 -   **User Authentication**: Secure registration and login using Laravel Sanctum.
